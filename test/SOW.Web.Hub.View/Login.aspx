@@ -1,4 +1,11 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="SOW.Web.Hub.View.Login" %>
+<!--
+    /**
+        * Copyright (c) 2018, SOW (https://www.facebook.com/safeonlineworld). (https://github.com/RKTUXYN) All rights reserved.
+        * Copyrights licensed under the New BSD License.
+        * See the accompanying LICENSE file for terms.
+    */
+-->
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="SOW.Web.Hub.View.Login" %>
 
 <!DOCTYPE html>
 
