@@ -1,5 +1,5 @@
 ﻿/**
-* Copyright (c) 2018, SOW (https://www.facebook.com/safeonlineworld).  All rights reserved.
+* Copyright (c) 2018, SOW (https://www.facebook.com/safeonlineworld).  (https://github.com/RKTUXYN) All rights reserved.
 * @author {SOW}
 * @description {Hub Api Client Side}
 * @example { }
